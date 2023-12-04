@@ -1,1 +1,2 @@
 dopo il reset 
+dopo il commit1
